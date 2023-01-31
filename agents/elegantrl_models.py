@@ -5,7 +5,7 @@ from elegantrl.agents import AgentPPO
 from elegantrl.agents import AgentSAC
 from elegantrl.agents import AgentTD3
 from elegantrl.train.config import Config
-from elegantrl.train.run import init_agent
+from elegantrl.train.run import render_agent
 from elegantrl.train.run import train_and_evaluate
 
 
